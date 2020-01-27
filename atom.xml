@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://fate-pdy.github.io/"/>
-  <updated>2020-01-25T07:58:31.163Z</updated>
+  <updated>2020-01-27T12:54:23.769Z</updated>
   <id>https://fate-pdy.github.io/</id>
   
   <author>
@@ -17,46 +17,22 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://fate-pdy.github.io/2020/01/25/hello-world/"/>
-    <id>https://fate-pdy.github.io/2020/01/25/hello-world/</id>
-    <published>2020-01-25T07:58:31.163Z</published>
-    <updated>2020-01-25T07:58:31.163Z</updated>
+    <title>为美好的世界献上祝福！</title>
+    <link href="https://fate-pdy.github.io/2020/01/27/konosuba/"/>
+    <id>https://fate-pdy.github.io/2020/01/27/konosuba/</id>
+    <published>2020-01-26T16:57:56.000Z</published>
+    <updated>2020-01-27T12:54:23.769Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
+      《为美好的世界献上祝福！》是轻小说作家晓枣著作，插画家三岛黑音负责插画，角川Sneaker文库所属的轻小说。
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo-Theme-Sakura</title>
-    <link href="https://fate-pdy.github.io/2018/12/12/Hexo-Theme-Sakura/"/>
-    <id>https://fate-pdy.github.io/2018/12/12/Hexo-Theme-Sakura/</id>
-    <published>2018-12-12T14:16:01.000Z</published>
-    <updated>2019-11-16T09:29:49.000Z</updated>
-    
-    <summary type="html">
-    
-      hexo-sakura主题使用教程
-    
-    </summary>
-    
-      <category term="技术" scheme="https://fate-pdy.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="生活" scheme="https://fate-pdy.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="web" scheme="https://fate-pdy.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://fate-pdy.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="番剧" scheme="https://fate-pdy.github.io/tags/%E7%95%AA%E5%89%A7/"/>
     
   </entry>
   
